@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rouxiv
+# Hi 👋 I'm Rouxi
 
 🚀 C++ Developer  
 📚 Currently learning **OpenCV / FFmpeg / System Programming**  
