@@ -11,7 +11,8 @@
 > **Building high-performance systems, one byte at a time.**
 > 
 > I am a developer passionate about low-level programming and system performance optimization. Currently, I'm diving deep into **Computer Vision**, **Multimedia Processing**, and the intricate workings of **Linux Internals**. Always eager to tackle complex technical challenges and optimize code for maximum efficiency.
-
+> 
+> Interests: Piano music, reading, and blogging.
 ---
 
 ## Tech Stack & Tools
@@ -69,14 +70,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## Recent Activity & Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph Snake Animation" />
 </div>
 
 ---
