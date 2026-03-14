@@ -1,13 +1,13 @@
-# Hi 👋 I'm Rouxi
+# Hi, I'm Rouxi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Low-level+Programming+Enthusiast;Performance+Optimization+Specialist;Exploring+OpenCV+%26+FFmpeg)](https://git.io/typing-svg)
 
-> 🚀 **Building high-performance systems, one byte at a time.**  
-> 📍 Currently diving deep into **Computer Vision**, **Multimedia Processing**, and **Linux Internals**.
+> **Building high-performance systems, one byte at a time.**  
+> Currently diving deep into Computer Vision, Multimedia Processing, and Linux Internals.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <table>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <table>
@@ -66,30 +66,29 @@
 
 ---
 
-## 🔥 Recent Activity & Contributions
+## Recent Activity & Contributions
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📚 Current Learning Roadmap
+## Current Learning Roadmap
 
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
         <ul>
-          <li>🎯 <b>Computer Vision</b><br/><i>Mastering OpenCV for real-time image processing.</i></li>
-          <br/>
-          <li>🎬 <b>Multimedia</b><br/><i>Deep diving into FFmpeg architecture and codec optimization.</i></li>
+          <li><strong>Computer Vision</strong><br/>Mastering OpenCV for real-time image processing.</li>
+          <li><strong>Multimedia Systems</strong><br/>Deep diving into FFmpeg architecture and codec optimization.</li>
         </ul>
       </td>
       <td valign="top" width="50%">
         <ul>
-          <li>🌐 <b>Network</b><br/><i>Building robust TCP/UDP servers in C++.</i></li>
-          <br/>
-          <li>🐧 <b>Linux System</b><br/><i>Exploring kernel internals, memory management, and concurrency.</i></li>
+          <li><strong>Network Programming</strong><br/>Building robust TCP/UDP servers in C++.</li>
+          <li><strong>Linux Internals</strong><br/>Exploring kernel subsystems, memory management, and concurrency models.</li>
         </ul>
       </td>
     </tr>
@@ -99,5 +98,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Let's optimize the world together.</b> ⚡
+  <strong>Thanks for visiting. Let's optimize the world together.</strong>
 </p>
