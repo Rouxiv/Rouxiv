@@ -19,12 +19,4 @@
 
 ---
 
-## 📦 Projects
-
-- OpenCV Notes
-- FFmpeg Study
-- C++ Networking
-
----
-
 ⭐ Thanks for visiting my profile!
