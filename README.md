@@ -67,13 +67,6 @@
 ---
 
 ## 🔥 Recent Activity & Contributions
-
-<div align="center">
-  
-![Rouxiv's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rouxiv&theme=github-light&hide_border=false&area=true&color=2563EB&line=2563EB&point=ffffff&area_color=e5e7eb&title_color=1f2937)
-
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
