@@ -25,7 +25,7 @@
         <img src="https://skillicons.dev/icons?i=linux,cmake,bash" height="45" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=opencv,ffmpeg" height="45" />
+        <img src="https://skillicons.dev/icons?i=opencv,ffmpeg,libcurl" height="45" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=clion,vscode,git,vim" height="45" />
