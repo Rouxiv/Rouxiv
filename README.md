@@ -33,7 +33,6 @@
 
 ## 📚 Current Learning
 
-- C++ System Programming
 - OpenCV Computer Vision
 - FFmpeg Multimedia Processing
 - Network Programming
