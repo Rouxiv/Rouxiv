@@ -27,13 +27,13 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,c" height="48" alt="C/C++" />
+        <img src="https://skillicons.dev/icons?i=cpp,c,js,bash" height="48" alt="C/C++" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=linux,cmake,bash" height="48" alt="System and Build Tools" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=opencv,ffmpeg,libcurl" height="48" alt="Libraries" />
+        <img src="https://skillicons.dev/icons?i=opencv" height="48" alt="Libraries" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=clion,vscode,git,vim" height="48" alt="IDE and Tools" />
