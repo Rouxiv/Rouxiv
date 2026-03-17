@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rouxi</h1>
-
+<img align="right" src="https://github.com/Rouxiv/Rouxiv/blob/main/136618201_p0_master1200.jpg" width="120"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Low-level+Programming+Enthusiast;Performance+Optimization+Specialist;Exploring+OpenCV+%26+FFmpeg" alt="Typing SVG" />
