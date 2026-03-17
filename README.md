@@ -73,22 +73,15 @@
 </div>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="middle" style="border:none;">
-        <a href="https://github.com/Rouxiv">
-          <img 
-            src="https://github.com/Rouxiv/Rouxiv/blob/main/139831232_p0.png" 
-            width="140"
-            title="Keep optimizing"
-          />
-        </a>
-      </td>
-      <td align="center" valign="middle" style="border:none; padding-left: 20px;">
-        <strong style="font-size:16px;">
-          Thanks for visiting! Let's optimize the world together.
-        </strong>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Rouxiv">
+    <img 
+      src="https://github.com/Rouxiv/Rouxiv/blob/main/139831232_p0.png" 
+      width="140"
+      title="Keep optimizing"
+      style="vertical-align: middle; margin-right: 15px;"
+    />
+  </a>
+  <strong style="font-size: 16px; vertical-align: middle;">
+    Thanks for visiting! Let's optimize the world together.
+  </strong>
 </div>
