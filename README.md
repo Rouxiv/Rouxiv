@@ -63,7 +63,7 @@
   <table>
     <tr>
       <td align="center">
-        <img height="180em" src="https://streak-stats.demolab.com?user=Rosweisev&theme=default&hide_border=false&date_format=j-M-Y&background=FFFFFF" alt="GitHub Streak" />
+        <img height="180em" src="https://streak-stats.demolab.com?user=Rosweise&theme=default&hide_border=false&date_format=j-M-Y&background=FFFFFF" alt="GitHub Streak" />
       </td>
       <td align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rosweise&theme=default" alt="Profile Summary" />
